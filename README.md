@@ -9,3 +9,4 @@ The datasets are from real worls and now ready to perform DAX, EDA and visualiza
 Datasets includes real world data from:
 1. Airbnb
 2. Zomato (Dataset link: https://www.kaggle.com/datasets/rishikeshkonapure/zomato)
+3. Netflix Dataset
